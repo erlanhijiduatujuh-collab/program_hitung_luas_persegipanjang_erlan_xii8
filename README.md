@@ -49,10 +49,10 @@ Lengkapi identitas berikut:
 
 | Identitas | Keterangan |
 |---|---|
-| Nama Lengkap | Isi nama lengkap |
-| Kelas | XII-... |
-| Nomor Absen | ... |
-| Username GitHub | ... |
+| Nama Lengkap |Erlan sophiana rahman |
+| Kelas | XII-8 |
+| Nomor Absen | 12|
+| Username GitHub | erlanhijiduatujuh_colab|
 
 ## B. IDENTITAS PROYEK
 
