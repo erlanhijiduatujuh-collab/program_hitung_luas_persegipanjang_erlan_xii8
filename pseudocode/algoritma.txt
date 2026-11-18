@@ -6,10 +6,10 @@ PERANCANGAN ALGORITMA (PSEUDOCODE)
 
 A. IDENTITAS SISWA
 
-Nama Lengkap :
-Kelas        :
-Nomor Absen  :
-Username GitHub :
+Nama Lengkap :Erlan sophiana rahman
+Kelas        :xii-8
+Nomor Absen  :12
+Username GitHub :erlanhijiduatujuh_colab
 
 B. JUDUL PROGRAM
 
